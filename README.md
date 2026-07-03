@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="assets/banner.png" width="85%" alt="SOC Analyst Roadmap Banner">
-</p>
-
-
 <img width="1024" height="1024" alt="IMG_1929" src="https://github.com/user-attachments/assets/7583ca14-c503-4af0-8123-5af15b11af44" />
 
 
