@@ -1,0 +1,251 @@
+SOC Analyst Roadmap — 90‑Day Guidebook
+
+WKT12‑Certified Blue Team Framework
+A concise, practical, 90‑day SOC analyst development plan with hands‑on projects, a security playbook, and supporting materials.
+
+---
+
+📅 90‑Day SOC Analyst Roadmap
+
+Phase 1 — Foundations (Days 1–30)
+
+Build core skills in networking, OS internals, and cybersecurity fundamentals.
+
+Networking (Week 1)
+
+• TCP/IP, DNS, DHCP
+• Subnetting & segmentation
+• Packet analysis (Wireshark, Zeek)
+
+
+Operating Systems (Week 2)
+
+• Windows: AD, Event Logs, Group Policy
+• Linux: syslog, permissions, processes
+• PowerShell & Bash scripting
+
+
+Cybersecurity Fundamentals (Week 3)
+
+• CIA Triad
+• Risk assessment
+• MITRE ATT&CK, Kill Chain, Diamond Model
+
+
+Log Analysis Basics (Week 4)
+
+• Windows Event IDs
+• Linux auth logs
+• Parsing logs with scripts
+
+
+---
+
+Phase 2 — SOC Operations (Days 31–60)
+
+Learn SIEM, EDR, NSM, and incident response workflows.
+
+SIEM (Week 5)
+
+• Splunk, ELK, Sentinel
+• Log ingestion
+• Correlation rules
+• Dashboard building
+
+
+Incident Response (Week 6)
+
+• Alert triage
+• Evidence collection
+• Memory, disk, and network forensics
+
+
+EDR / XDR (Week 7)
+
+• CrowdStrike, SentinelOne, Defender
+• Process trees
+• Host isolation & remediation
+
+
+Network Security Monitoring (Week 8)
+
+• Zeek logs (conn, dns, http, ssl)
+• PCAP analysis
+• Beaconing & exfil detection
+
+
+---
+
+Phase 3 — Advanced Defense (Days 61–90)
+
+Threat intelligence, vulnerability management, IAM, and advanced SOC skills.
+
+Threat Intelligence (Week 9)
+
+• OSINT workflows
+• IOC enrichment
+• ATT&CK mapping
+• Threat actor profiling
+
+
+Vulnerability Monitoring (Week 10)
+
+• Nessus, Qualys
+• Patch validation
+• CIS benchmarks & drift detection
+
+
+Identity & Access (Week 11)
+
+• MFA, SSO, OAuth, SAML
+• RBAC/ABAC
+• Privilege escalation detection
+
+
+Advanced SOC Skills (Week 12)
+
+• Honeypots & deception
+• Purple teaming
+• Adversary emulation
+• ATT&CK technique mapping
+
+
+---
+
+🔧 14 Hands‑On SOC Projects
+
+Practical, real‑world projects to build confidence and skill.
+
+1. Analyze a PCAP for suspicious traffic
+2. Build a Splunk dashboard for authentication events
+3. Write a correlation rule for brute‑force detection
+4. Investigate a simulated malware infection
+5. Perform memory forensics with Volatility
+6. Parse Linux auth logs for anomalies
+7. Create a PowerShell triage script
+8. Enrich IOCs using VirusTotal + Shodan
+9. Map a threat actor to MITRE ATT&CK
+10. Run a Nessus scan and validate r
+11. Detect privilege escalation in Azure AD logs
+12. Deploy a honeypot and analyze interactions
+13. Simulate a phishing campaign and analyze results
+14. Conduct a purple team adversary simulation
+
+
+Each project can be documented using your templates in /templates.
+
+---
+
+📘 SOC Analyst Security Playbook
+
+A short, actionable playbook for daily SOC operations.
+
+1. Alert Triage Workflow
+
+• Validate alert source
+• Check context (user, host, time)
+• Pull logs from SIEM/EDR
+• Identify TTPs
+• Map to ATT&CK
+• Escalate or close with justification
+
+
+2. Incident Response Flow
+
+• Identify
+• Contain
+• Collect evidence
+• Analyze
+• Remediate
+• Recover
+• Document
+• Lessons learned
+
+
+3. IOC Handling
+
+• Enrich (VT, HA, Shodan)
+• Classify (benign, suspicious, malicious)
+• Add to blocklists or watchlists
+• Update detection rules
+
+
+4. Threat Hunting Cycle
+
+• Hypothesis
+• Data collection
+• Analysis
+• Findings
+• ATT&CK mapping
+• Recommendations
+
+
+5. Daily SOC Checklist
+
+• Review SIEM dashboards
+• Check EDR alerts
+• Monitor identity logs
+• Validate critical patches
+• Review firewall/VPN logs
+• Update threat intel feeds
+
+
+---
+
+📚 What Else Completes This Guidebook?
+
+To make this a full professional SOC analyst package, add:
+
+1. Cheat Sheets
+
+• Windows Event ID cheat sheet
+• Linux log cheat sheet
+• ATT&CK tactics/techniques quick reference
+• SIEM query cheat sheet (Splunk SPL, KQL)
+
+
+2. Lab Environment Setup Guide
+
+• VirtualBox / VMware
+• Security Onion
+• Splunk Free
+• Zeek
+• Windows + Linux VMs
+• Honeypot deployment
+
+
+3. SOC Documentation Templates
+
+Already in your repo:
+
+• Incident report
+• Threat hunt
+• Analyst notes
+
+
+4. Tool Usage Guides
+
+Short guides for:
+
+• Wireshark
+• Zeek
+• Splunk
+• Defender
+• Nessus
+• Shodan
+• VirusTotal
+
+
+5. WKT12 Branding
+
+• Banner
+• Footer
+• Badge strip
+• Versioning (v1.0, v1.1, etc.)
+
+
+---
+
+🛡️ WKT12 Certified
+
+This 90‑Day SOC Analyst Guidebook is part of the WKT12 Blue Team Training Framework, designed for practical SOC readiness and real‑world defensive operations.
