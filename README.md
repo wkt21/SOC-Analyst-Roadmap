@@ -1,8 +1,11 @@
-<img width="1024" height="1024" alt="IMG_1929" src="https://github.com/user-attachments/assets/4fea9c4e-e3c9-41b1-8fa6-![WKT12 Certified](https://img.shields.io/badge/WKT12-Certified-black?style=for-the-badge&logo=security)
+<img width="1024" height="1024" alt="IMG_1929" src="https://github.com/user-attachments/assets/4fea9c4e-e3c9-41b1-8fa6-
+---
+![WKT12 Certified]
+(https://img.shields.io/badge/WKT12-Certified-black?style=for-the-badge&logo=security)
 ![SOC Roadmap](https://img.shields.io/badge/SOC-Analyst_Roadmap-blue?style=for-the-badge&logo=github)
 ![MITRE ATT&CK](https://img.shields.io/badge/ATT%26CK-Mapping-orange?style=for-the-badge)
 ![Blue Team](https://img.shields.io/badge/Blue_Team-Defense-success?style=for-the-badge)
-
+---
 
 # SOC-Analyst-Roadmap
 ATT&amp;CK-Style Threat Modeling &amp; Defense Operations 
