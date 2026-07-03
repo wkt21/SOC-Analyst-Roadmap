@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/banner.png" width="85%" alt="SOC Analyst Roadmap Banner">
+</p>
+
+
 <img width="1024" height="1024" alt="IMG_1929" src="https://github.com/user-attachments/assets/7583ca14-c503-4af0-8123-5af15b11af44" />
 
 
@@ -6,7 +11,19 @@
 ### **WKT12‑Certified Blue Team Framework**
 
 ---
+## 📂 Quick Navigation
 
+- **[Core Skills](roadmap/core-skills.md)**
+- **[Threat Intelligence](roadmap/threat-intelligence.md)**
+- **[SOC Operations](roadmap/soc-operations.md)**
+- **[Vulnerability Monitoring](roadmap/vulnerability-monitoring.md)**
+- **[Identity & Access](roadmap/identity-access.md)**
+- **[Infrastructure Monitoring](roadmap/infrastructure-monitoring.md)**
+- **[Awareness Support](roadmap/awareness-support.md)**
+- **[Compliance & Policy](roadmap/compliance-policy.md)**
+- **[Advanced SOC Skills](roadmap/advanced-soc-skills.md)**
+
+---
 ## 📛 Badges
 
 ![WKT12 Certified](https://img.shields.io/badge/WKT12-Certified-black?style=for-the-badge&logo=security)
